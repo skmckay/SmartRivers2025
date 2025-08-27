@@ -1,0 +1,39 @@
+---
+title: 'Sustainable practices for dredge material placement and bank protection'
+author: "PIANC Smart Rivers 2025"
+date: "September 2025"
+output: html_document
+---
+
+
+# **Overview**
+
+Sustainable development of infrastructure systems is an emerging priority worldwide, and nature-based solutions are increasingly applied in navigable waterways to meet infrastructure needs as well as produce social and environmental benefits. This short course will cover how science-based guidance can inform decisions about waterborne infrastructure projects for two common areas of practice: sustainable sediment management and technical-biological bank protection. Participants will learn about the broader context for sustainable waterway management as well as technical guidance for executing these two types of nature-based solutions.
+
+
+Background and course instructors.
+
+- Dr. Burton Suedel, Research Biologist, Environmental Laboratory, U.S. Army Engineer Research and Development Center.  
+- Calvin Creech, Institute for Water Resources, U.S. Army Corps of Engineers.  
+- Dr. Kyle McKay, Environmental Director, [Woolpert](https://woolpert.com/)
+
+
+# **Course Agenda**
+
+Many of our tools focus on assessing or forecasting ecological condition. Most of these models were designed to support ecosystem restoration decisions within the U.S. Army Corps of Engineers.  
+
+
+# **Topic A**
+
+Many of our tools focus on assessing or forecasting ecological condition. Most of these models were designed to support ecosystem restoration decisions within the U.S. Army Corps of Engineers.  
+
+
+# **Topic B**
+
+Many of our tools focus on assessing or forecasting ecological condition. Most of these models were designed to support ecosystem restoration decisions within the U.S. Army Corps of Engineers.  
+
+
+# **Topic C**
+
+Many of our tools focus on assessing or forecasting ecological condition. Most of these models were designed to support ecosystem restoration decisions within the U.S. Army Corps of Engineers.  
+
