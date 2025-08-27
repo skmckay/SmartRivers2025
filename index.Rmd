@@ -8,7 +8,7 @@ output: html_document
 # **Course Logistics**
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="50%"}
 [PIANC Smart Rivers 2025](https://smartrivers2025.com/)  
 Monday, September 8, 2025  
 1:30-4:30 PM  
@@ -23,7 +23,7 @@ Instructional team:
 
 :::
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 ```{r echo=FALSE}
 knitr::include_graphics("SmartRivers2025.jpg")
 ```
@@ -52,8 +52,10 @@ This short course emerged from three PIANC working groups addressing sustainable
 
 # **Nature-based solutions**
 
-Insert blurb.  
-Link to slides.  
+Nature-based solutions (NBS) have been defined as “actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which address social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services and resilience and biodiversity benefits” (UNEP 2022). However, from a practical perspective, NBS can be loosely characterized as having some of the following properties: (1) they perform infrastructure services, (2) NBS consists (at least in part) of natural or living materials, (3) they are intentionally designed for environmental and social benefits, and (4) NBS enhance resilience through self-adjustment. This presentation provides a general background on NBS and their relevance to navigable waterways. Specifically, two main themes will be addressed:  
+
+- The convergence of infrastructure planning and biodiversity conservation, and how they has propagated into use of nature-based solutions. [Slides from Dr. Kyle McKay](PIANC_SmartRivers_NBS_Overview_McKay.pdf).  
+- The use of nature-based solutions in ports, harbors, and navigable waterways with a specific emphasis on recent initiatives from the World Bank, PIANC, and the US Army Corps of Engineers. [Slides from Dr. Burton Suedel]().
 
 Pertinent resources to learn more about nature-based solutions:  
 
@@ -88,19 +90,36 @@ Links to DOER, DOTS, Working group, etc.
 Pertinent resources to learn more about sustainable sediment management:  
 
 - [USACE's Dredging Operations and Environmental Research Program (DOER)](https://doer.el.erdc.dren.mil/)  
-- [USACE's Dredging Operations Technical Support Program (DOTS)](https://dots.el.erdc.dren.mil/)
+- [USACE's Dredging Operations Technical Support Program (DOTS)](https://dots.el.erdc.dren.mil/)  
+- Add links as needed. 
 
 # **Technical-Biological Bank Protection**
 
-Insert blurb.  
-Link to slides.  
-
-Working Group 128 products:  
+::: columns
+::: {.column width="70%"}
+Globally, nature-based solutions are increasingly used for streambank protection in navigable waterways, leading to a proliferation of guidelines and recommendations. PIANC Working Group 128 was established to collect and condense expert knowledge in this field. The corresponding report is split into three parts, which are covered in this workshop:  
 
 - [Part 1: Basics of a best practice approach](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-1-basics-of-a-best-practice-approach/)  
 - [Part 2: Library of measures](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-2-library-of-measures/)  
 - [Part 3: Decision support advice](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-3-decision-support-advice/)  
 - [Spreadsheet tools accompanying reports](https://pianc.app.box.com/s/uh6bfl1lg6zmtn7uqol3qzfsjz2u6xu7)
+
+These engineering guidance documents detail the planning and design approach (at the scale 0f 660+ pages!), but an abbreviated summary of this material will be provided here. Specifically, a mix of in-person lectures and videos are used to introduce both the reports and the experts working in these fields.  
+
+- An overview of PIANC Working Group 128 from the Chairman. [Video from Dr. Bernhard Söhngen]().  
+- Presentation of design and decision support processes from Dr. Kyle McKay. [Slides from Dr. Kyle McKay]().  
+- Review of families of technical-biological bank protection methods. [Slides from Dr. Kyle McKay]().  
+- Case study of biological bank protection and renaturalization of the Small Northern IJ-Lake. [Slides from Dr. Jos Wieggers](PIANC_SmartRivers_BankProtection_Wieggers.pdf).  
+- Case study of large river erosion management. [Slides from Dr. Chris Haring]().
+:::
+
+::: {.column width="30%"}
+```{r echo=FALSE}
+knitr::include_graphics("PIANC128ReportCover.jpg")
+```
+:::
+:::
+
 
 Other guidance documents and manuals on technical-biological bank protection:  
 
