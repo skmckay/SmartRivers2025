@@ -54,7 +54,24 @@ This short course emerged from three PIANC working groups addressing sustainable
 
 Insert blurb.  
 Link to slides.  
-Links to EWN, NEWN, World Bank, etc.  
+
+Pertinent resources to learn more about nature-based solutions:  
+
+- [PIANC's Working With Nature Initiative](https://www.pianc.org/working-with-nature/)  
+- [USACE's Engineering with Nature Initiative](https://ewn.erdc.dren.mil/)  
+- [International Guidelines on Natural and Nature-Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/)  
+- [Network for Engineering with Nature](https://n-ewn.org/)  
+- [Nature-based solutions for Urban Resilience in the Anthropocene (NATURA) Network](https://natura-net.org/)  
+- [EcoShape](https://www.ecoshape.org/en/)  
+- [Nature-Based Solutions for Ports: An Overview of NBS Implementation in Practice - Opportunities and Challenges](https://openknowledge.worldbank.org/entities/publication/f6e6b4cb-74c0-4bef-ab5c-da6cc0bdbebe)  
+- [Applying the Working with Nature philosophy to navigation infrastructure projects (Suedel et al. 2024)](suedel-et-al-2024-applying-the-working-with-nature-philosophy-to-navigation-infrastructure-projects.pdf)
+
+
+```{r echo=FALSE, fig.cap="Nature-based solutions are a spectrum of actions from more to less naturalized (Figure from Van Rees et al. 2023 PNAS)."}
+knitr::include_graphics("NBS_VanRees.png")
+```
+
+
 
 # **Navigability of Natural Rivers**
 
@@ -68,11 +85,15 @@ Insert blurb.
 Link to slides.  
 Links to DOER, DOTS, Working group, etc.  
 
+Pertinent resources to learn more about sustainable sediment management:  
+
+- [USACE's Dredging Operations and Environmental Research Program (DOER)](https://doer.el.erdc.dren.mil/)  
+- [USACE's Dredging Operations Technical Support Program (DOTS)](https://dots.el.erdc.dren.mil/)
+
 # **Technical-Biological Bank Protection**
 
 Insert blurb.  
 Link to slides.  
-Links to DOER, DOTS, Working group, etc.  
 
 Working Group 128 products:  
 
@@ -83,6 +104,11 @@ Working Group 128 products:
 
 Other guidance documents and manuals on technical-biological bank protection:  
 
-- England manual  
-- Reclamation by Baird et al.  
-- Others  
+- [German Federal Waterways materials](https://ufersicherung-baw-bfg.baw.de/index-en.html)  
+- [United Kingdom Estuary Edges Approach](https://www.estuaryedges.co.uk/)  
+- [U.S. Federal Interagency Stream Restoration Working Group (1998)](https://www3.uwsp.edu/cnr-ap/UWEXLakes/PublishingImages/resources/restoration-project/StreamRestorationHandbook.pdf)  
+- [US Department of Agriculture engineering manual for stream restoration](https://policy.nrcs.usda.gov/searchdirective/210%20H%20Part%20654)
+- [US Bureau of Reclamation (2015)](https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/A-BankStab-final6-25-2015.pdf)  
+- [US National Cooperative Highway Research Program](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)  
+- [US Army Corps of Engineers (1997)](https://hdl.handle.net/11681/9983)
+
