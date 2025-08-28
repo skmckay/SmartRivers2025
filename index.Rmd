@@ -74,24 +74,23 @@ knitr::include_graphics("NBS_VanRees.png")
 ```
 
 
-
 # **Navigability of Natural Rivers**
 
 Insert blurb.  
 Link to slides.  
 Links to working group.  
 
+
 # **Sustainable Sediment Management**
 
-Insert blurb.  
-Link to slides.  
-Links to DOER, DOTS, Working group, etc.  
+Sustainable development of infrastructure systems is an emerging priority worldwide, and recent U.S. policy directives favor implementing nature-based solutions. This session will cover how science-based guidance can be used to shape and inform future practices in the development of sustainable navigation infrastructure and to promote sustainable development and the use of nature-based solutions for waterborne infrastructure projects. Participants will be able to advance environmental and other benefits when incorporating dredged sediment in navigation infrastructure. Specifically, this session will provide an enhanced understanding of how to achieve more sustainable management of dredged material applicable to a wide variety of dredging projects in both coastal and inland systems.
+
+[Slides from Dr. Burton Suedel](Sustainable Sediment Management_Suedel(1).pdf)
 
 Pertinent resources to learn more about sustainable sediment management:  
 
 - [USACE's Dredging Operations and Environmental Research Program (DOER)](https://doer.el.erdc.dren.mil/)  
 - [USACE's Dredging Operations Technical Support Program (DOTS)](https://dots.el.erdc.dren.mil/)  
-- Add links as needed. 
 
 # **Technical-Biological Bank Protection**
 
