@@ -36,26 +36,30 @@ Sustainable development of infrastructure systems is an emerging priority worldw
 
 This short course emerged from three PIANC working groups addressing sustainable management of navigable waters. The following working groups and members are gratefully acknowledged for their direct and indirect contributions to this class:  
 
-- Working group 214 - Topic - Chair, member, member.  
-- Working group 236 - Topic - Chair, member, member.  
+- Working group 214 - Beneficial Use for Sustainable Waterborne Transport Infrastructure Projects – Victor Magar (Chair), Burton Suedel (Mentor).  
+- Working group 236 - Sustainable Management of the Navigability of Natural Rivers - Hiver, Huber, Mosselman & Creech (co-Chairs).  
 - Working group 128 - Technical-Biological Bank Protections for Inland Waterways - Bernhard Söhngen (WG Chair, Federal Waterways Engineering and Research Institute, Karlsruhe, Germany), Jeroen Verbelen (WG member, De Vlaamse Waterweg NV, Merelbeke, Belgium), Jos Wieggers (WG member, Rijkswaterstaat, Utrecht, Lelystad, The Netherlands), Kyle McKay (WG Member, Woolpert, New York, New York, USA), and Chris Haring (Coastal and Hydraulics Laboratory, U.S. Army Corps of Engineers, Rock Island, Illinois, USA).
 
 # **Course Agenda**
 
-- 1:30-1:45: Welcome and introductions (Suedel).  
-- 1:45-2:30: The changing landscape of nature-based solutions (Suedel and McKay).  
-- 2:30-2:45: Improving navigability of natural rivers with sustainable approaches (Creech).  
-- 2:45-3:45: Sustainable sediment management (Suedel).  
-- 3:45-4:00: BREAK.  
-- 4:00-5:15: Technical-biological bank protection (McKay).  
-- 5:15-5:30: Discussion and final remarks (Suedel).  
+- 12:30-1:00: Arrive & coffee  
+- 1:00-1:15: Welcome and introductions (Suedel).  
+- 1:15-1:45: The changing landscape of nature-based solutions (McKay).  
+- 1:45-2:15: Improving navigability of natural rivers with sustainable approaches (Creech).  
+- 2:15-2:45: Sustainable sediment management (Suedel).  
+- 2:45-3:00: BREAK.  
+- 3:00-3:45: Technical-biological bank protection (McKay).  
+- 3:45-4:15: Discussion of nature-based solutions and sustainable sediment management.  
+- 4:15-4:30: Closing remarks (Suedel).  
+- 4:30: Adjourn.  
+- 5:00-7:00: Conference welcome reception.  
 
 # **Nature-based solutions**
 
-Nature-based solutions (NBS) have been defined as “actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which address social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services and resilience and biodiversity benefits” (UNEP 2022). However, from a practical perspective, NBS can be loosely characterized as having some of the following properties: (1) they perform infrastructure services, (2) NBS consists (at least in part) of natural or living materials, (3) they are intentionally designed for environmental and social benefits, and (4) NBS enhance resilience through self-adjustment. This presentation provides a general background on NBS and their relevance to navigable waterways. Specifically, two main themes will be addressed:  
+Nature-based solutions (NBS) have been defined as “actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which address social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services and resilience and biodiversity benefits” (UNEP 2022). However, from a practical perspective, NBS can be loosely characterized as having some of the following properties: (1) they perform infrastructure services, (2) NBS consists (at least in part) of natural or living materials, (3) they are intentionally designed for environmental and social benefits, and (4) NBS enhance resilience through self-adjustment. This presentation provides a general background on NBS and their relevance to navigable waterways. Specifically, two main themes will be addressed in this [presentation from Dr. Kyle McKay](PIANC_SmartRivers_NBS_Overview_McKay.pdf):  
 
-- The convergence of infrastructure planning and biodiversity conservation, and how they has propagated into use of nature-based solutions. [Slides from Dr. Kyle McKay](PIANC_SmartRivers_NBS_Overview_McKay.pdf).  
-- The use of nature-based solutions in ports, harbors, and navigable waterways with a specific emphasis on recent initiatives from the World Bank, PIANC, and the US Army Corps of Engineers. [Slides from Dr. Burton Suedel]().
+- The convergence of infrastructure planning and biodiversity conservation, and how they has propagated into use of nature-based solutions.  
+- The use of nature-based solutions in ports, harbors, and navigable waterways with a specific emphasis on recent initiatives from the World Bank, PIANC, and the US Army Corps of Engineers. **ADD THIS CONTENT**.
 
 Pertinent resources to learn more about nature-based solutions:  
 
@@ -105,9 +109,8 @@ Globally, nature-based solutions are increasingly used for streambank protection
 
 These engineering guidance documents detail the planning and design approach (at the scale 0f 660+ pages!), but an abbreviated summary of this material will be provided here. Specifically, a mix of in-person lectures and videos are used to introduce both the reports and the experts working in these fields.  
 
-- An overview of PIANC Working Group 128 from the Chairman. [Video from Dr. Bernhard Söhngen]().  
-- Presentation of design and decision support processes from Dr. Kyle McKay. [Slides from Dr. Kyle McKay]().  
-- Review of families of technical-biological bank protection methods. [Slides from Dr. Kyle McKay]().  
+- An overview of PIANC Working Group 128 from the Chairman. [Slides from Dr. Bernhard Söhngen](PIANC_SmartRivers_WG128_Overview_Söhngen.pdf).  
+- Review of families of technical-biological bank protection methods. **ADD SLIDES from Dr. Kyle McKay**.  
 - Case study of biological bank protection and renaturalization of the Small Northern IJ-Lake. [Slides from Dr. Jos Wieggers](PIANC_SmartRivers_BankProtection_Wieggers.pdf).  
 - Case study of large river erosion management. [Slides from Dr. Chris Haring]().
 :::
