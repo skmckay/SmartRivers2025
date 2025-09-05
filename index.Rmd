@@ -56,10 +56,10 @@ This short course emerged from three PIANC working groups addressing sustainable
 
 # **Nature-based solutions**
 
-Nature-based solutions (NBS) have been defined as “actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which address social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services and resilience and biodiversity benefits” (UNEP 2022). However, from a practical perspective, NBS can be loosely characterized as having some of the following properties: (1) they perform infrastructure services, (2) NBS consists (at least in part) of natural or living materials, (3) they are intentionally designed for environmental and social benefits, and (4) NBS enhance resilience through self-adjustment. This presentation provides a general background on NBS and their relevance to navigable waterways. Specifically, two main themes will be addressed in this [presentation from Dr. Kyle McKay](PIANC_SmartRivers_NBS_Overview_McKay.pdf):  
+Nature-based solutions (NBS) have been defined as “actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which address social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services and resilience and biodiversity benefits” (UNEP 2022). However, from a practical perspective, NBS can be loosely characterized as having some of the following properties: (1) they perform infrastructure services, (2) NBS consists (at least in part) of natural or living materials, (3) they are intentionally designed for environmental and social benefits, and (4) NBS enhance resilience through self-adjustment. This presentation provides a general background on NBS and their relevance to navigable waterways. Specifically, two main themes will be addressed in this [presentation from Dr. Kyle McKay](PIANC_NBS_Overview_McKay_2025-09-04.pdf):  
 
 - The convergence of infrastructure planning and biodiversity conservation, and how they has propagated into use of nature-based solutions.  
-- The use of nature-based solutions in ports, harbors, and navigable waterways with a specific emphasis on recent initiatives from the World Bank, PIANC, and the US Army Corps of Engineers. **ADD THIS CONTENT**.
+- The use of nature-based solutions in ports, harbors, and navigable waterways with a specific emphasis on recent initiatives from the World Bank, PIANC, and the US Army Corps of Engineers.
 
 Pertinent resources to learn more about nature-based solutions:  
 
@@ -110,7 +110,7 @@ Globally, nature-based solutions are increasingly used for streambank protection
 These engineering guidance documents detail the planning and design approach (at the scale 0f 660+ pages!), but an abbreviated summary of this material will be provided here. Specifically, a mix of in-person lectures and videos are used to introduce both the reports and the experts working in these fields.  
 
 - An overview of PIANC Working Group 128 from the Chairman. [Slides from Dr. Bernhard Söhngen](PIANC_SmartRivers_WG128_Overview_Söhngen.pdf).  
-- Review of families of technical-biological bank protection methods. **ADD SLIDES from Dr. Kyle McKay**.  
+- Review of families of technical-biological bank protection methods. [Slides from Dr. Kyle McKay](PIANC_SmartRivers_BankProtection_McKay.pdf).  
 - Case study of biological bank protection and renaturalization of the Small Northern IJ-Lake. [Slides from Dr. Jos Wieggers](PIANC_SmartRivers_BankProtection_Wieggers.pdf).  
 - Case study of large river erosion management. [Slides from Dr. Chris Haring]().
 :::
@@ -127,9 +127,9 @@ Other guidance documents and manuals on technical-biological bank protection:
 
 - [German Federal Waterways materials](https://ufersicherung-baw-bfg.baw.de/index-en.html)  
 - [United Kingdom Estuary Edges Approach](https://www.estuaryedges.co.uk/)  
-- [U.S. Federal Interagency Stream Restoration Working Group (1998)](https://www3.uwsp.edu/cnr-ap/UWEXLakes/PublishingImages/resources/restoration-project/StreamRestorationHandbook.pdf)  
+- [U.S. Federal Interagency Stream Restoration Working Group (1997)](https://www3.uwsp.edu/cnr-ap/UWEXLakes/PublishingImages/resources/restoration-project/StreamRestorationHandbook.pdf)  
 - [US Department of Agriculture engineering manual for stream restoration](https://policy.nrcs.usda.gov/searchdirective/210%20H%20Part%20654)
 - [US Bureau of Reclamation (2015)](https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/A-BankStab-final6-25-2015.pdf)  
-- [US National Cooperative Highway Research Program](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)  
+- [US National Cooperative Highway Research Program (2005)](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)  
 - [US Army Corps of Engineers (1997)](https://hdl.handle.net/11681/9983)
 
