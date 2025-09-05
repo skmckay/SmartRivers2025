@@ -11,7 +11,7 @@ output: html_document
 ::: {.column width="50%"}
 [PIANC Smart Rivers 2025](https://smartrivers2025.com/)  
 Monday, September 8, 2025  
-1:30-4:30 PM  
+1:00-4:30 PM  
 Renasant Convention Center, 255 North Main St., Memphis, TN 38103  
 Room 104  
 
@@ -37,7 +37,7 @@ Sustainable development of infrastructure systems is an emerging priority worldw
 This short course emerged from three PIANC working groups addressing sustainable management of navigable waters. The following working groups and members are gratefully acknowledged for their direct and indirect contributions to this class:  
 
 - Working group 214 - Beneficial Use for Sustainable Waterborne Transport Infrastructure Projects – Victor Magar (Chair), Burton Suedel (Mentor).  
-- Working group 236 - Sustainable Management of the Navigability of Natural Rivers - Hiver, Huber, Mosselman & Creech (co-Chairs).  
+- Working group 236 - Sustainable Management of the Navigability of Natural Rivers - JM Hiver (Université Libre de Bruxelles, Belgium), NP Huber (Bundesanstalt Für Wasserbau (BAW), Germany), E Mosselman (Delft University of Technology & Deltares, The Netherlands), and Calvin Creech (US Army Corps of Engineers, USA).  
 - Working group 128 - Technical-Biological Bank Protections for Inland Waterways - Bernhard Söhngen (WG Chair, Federal Waterways Engineering and Research Institute, Karlsruhe, Germany), Jeroen Verbelen (WG member, De Vlaamse Waterweg NV, Merelbeke, Belgium), Jos Wieggers (WG member, Rijkswaterstaat, Utrecht, Lelystad, The Netherlands), Kyle McKay (WG Member, Woolpert, New York, New York, USA), and Chris Haring (Coastal and Hydraulics Laboratory, U.S. Army Corps of Engineers, Rock Island, Illinois, USA).
 
 # **Course Agenda**
@@ -80,9 +80,12 @@ knitr::include_graphics("NBS_VanRees.png")
 
 # **Navigability of Natural Rivers**
 
-Insert blurb.  
-Link to slides.  
-Links to working group.  
+The PIANC InCom/Envicom Working Group 236 was established in early 2021 to develop PIANC guidelines for improving navigability conditions on natural or quasi-natural rivers, while maintaining morphological processes, river form, and function. A natural river system exhibits two important characteristics – 1) unregulated hydrology and 2) unconstrained morphology. The key objectives of the WG236 – Sustainable Management of the Navigability of Natural Rivers – include: 1) development of guidelines to improve and maintain the navigability in natural rivers; 2) assess the sustainability of river training works designed to improve the navigability; 3) assess the sustainability of dynamic river management (monitoring and shifting of navigation aids to adapt the navigation channel to the river dynamics); 4) highlight the technical, operational, economic and environmental considerations for navigation in free-flowing rivers compared to that in regulated rivers and canals; and 5) improve the understanding of the physical processes in natural rivers, developed with or without river training works.
+
+The developed guidance includes a planning framework for developing a navigability improvement masterplan for a natural river system, and the integrated and adaptive management strategies that can be applied at a system scale. Specific interventions and measures have been identified that are analysed to meet the dual goals of maintaining morphological river function and improving navigability conditions. These measures include dynamic charting; morphological dredging and disposal management; Temporary, Adaptable, and Flexible Training Structures (TAFTS); riverbed armouring and sediment nourishment; rock excavation; meander cutoffs and oxbow development; localized traditional river training structures; and channel closure structures. The impacts and strategies for mitigating impacts associated with some of the measures are analysed and discussed. Finally, the continual monitoring, management, and operational tools available for improving navigability in a morphologically active river system are presented. 
+
+- [Conference Proceedings Paper of the 35th PIANC World Congres 2024 about WG236](https://pure.tudelft.nl/ws/portalfiles/portal/221662388/PIANC_Working_Group_236_-_Sustainable_Management_of_the_Navigability_of_Natural_Rivers.pdf).  
+- [Webinar](https://pianc.us/event/wg236/).  
 
 
 # **Sustainable Sediment Management**
@@ -112,7 +115,7 @@ These engineering guidance documents detail the planning and design approach (at
 - An overview of PIANC Working Group 128 from the Chairman. [Slides from Dr. Bernhard Söhngen](PIANC_SmartRivers_WG128_Overview_Söhngen.pdf).  
 - Review of families of technical-biological bank protection methods. [Slides from Dr. Kyle McKay](PIANC_SmartRivers_BankProtection_McKay.pdf).  
 - Case study of biological bank protection and renaturalization of the Small Northern IJ-Lake. [Slides from Dr. Jos Wieggers](PIANC_SmartRivers_BankProtection_Wieggers.pdf).  
-- Case study of large river erosion management. [Slides from Dr. Chris Haring]().
+
 :::
 
 ::: {.column width="30%"}
