@@ -112,7 +112,7 @@ Globally, nature-based solutions are increasingly used for streambank protection
 
 These engineering guidance documents detail the planning and design approach (at the scale 0f 660+ pages!), but an abbreviated summary of this material will be provided here. Specifically, a mix of in-person lectures and videos are used to introduce both the reports and the experts working in these fields.  
 
-- An overview of PIANC Working Group 128 from the Chairman. [Slides from Dr. Bernhard Söhngen](PIANC_SmartRivers_WG128_Overview_Söhngen.pdf).  
+- An overview of PIANC Working Group 128 from the Chairman. [Slides from Dr. Bernhard Söhngen](PIANC_SmartRivers_WG128_Overview_Söhngen.pdf) and [Video from Dr. Bernhard Söhngen](https://drive.google.com/file/d/1He14Xt4pcLMn-mwjL2K3VCgOZm4UJwnx/view?usp=drive_link).  
 - Review of families of technical-biological bank protection methods. [Slides from Dr. Kyle McKay](PIANC_SmartRivers_BankProtection_McKay.pdf).  
 - Case study of biological bank protection and renaturalization of the Small Northern IJ-Lake. [Slides from Dr. Jos Wieggers](PIANC_SmartRivers_BankProtection_Wieggers.pdf).  
 
@@ -134,5 +134,7 @@ Other guidance documents and manuals on technical-biological bank protection:
 - [US Department of Agriculture engineering manual for stream restoration](https://policy.nrcs.usda.gov/searchdirective/210%20H%20Part%20654)
 - [US Bureau of Reclamation (2015)](https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/A-BankStab-final6-25-2015.pdf)  
 - [US National Cooperative Highway Research Program (2005)](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)  
-- [US Army Corps of Engineers (1997)](https://hdl.handle.net/11681/9983)
+- [US Army Corps of Engineers (1997)](https://hdl.handle.net/11681/9983)  
+- [US National Large Wood Manual](https://ewn.erdc.dren.mil/publications/archive/national-large-wood-manual/)
+
 
