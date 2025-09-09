@@ -61,7 +61,7 @@ This short course emerged from three PIANC working groups addressing sustainable
 
 ::: {.column width="50%"}
 ```{r echo=FALSE}
-knitr::include_graphics("CourseParticipants.jpg")
+knitr::include_graphics("CourseParticipants2.jpg")
 ```
 :::
 :::
